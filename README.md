@@ -1,5 +1,5 @@
 # Personal website for Dave Whipp
 
-This is basically just a placeholder site to have my [Markdown CV](https://davewhipp.github.io/markdown-cv/) online.
-
-Information about my research group can be found on the [Helsinki University Geodynamics Group site](https://www2.helsinki.fi/en/researchgroups/geodynamics).
+- [CV (web; most up to date)](https://davewhipp.github.io/markdown-cv/)
+- [CV (PDF)](https://davewhipp.github.io/pdf/whipp_CV.pdf)
+- [Helsinki University Geodynamics Group](https://www2.helsinki.fi/en/researchgroups/geodynamics)
