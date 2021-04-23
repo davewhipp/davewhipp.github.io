@@ -1,8 +1,6 @@
 # Dave Whipp
 
-<!--
-![Dave Whipp](img/Whipp-circle.jpg)
--->
+<img alt="Dave Whipp" src="img/dmw-forest.jpg" width="450">
 
 - [CV (web version; *most current*)](https://davewhipp.github.io/markdown-cv/)
 - [CV (PDF)](https://davewhipp.github.io/pdf/whipp_CV.pdf)
