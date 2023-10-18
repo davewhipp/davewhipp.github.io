@@ -1,7 +1,3 @@
----
-layout: home
----
-
 # Dave Whipp
 
 <img alt="Dave Whipp" src="img/dmw-forest.jpg" width="450">
